@@ -1,0 +1,117 @@
+C:\Users\Emilian Adamache\Documents\Visual Studio 2015\Projects\UP Automation\UPAutomation\UnifiedPracticeTests\bin\Debug\NUnit3.TestAdapter.dll
+C:\Users\Emilian Adamache\Documents\Visual Studio 2015\Projects\UP Automation\UPAutomation\UnifiedPracticeTests\bin\Debug\nunit.engine.dll
+C:\Users\Emilian Adamache\Documents\Visual Studio 2015\Projects\UP Automation\UPAutomation\UnifiedPracticeTests\bin\Debug\nunit.engine.api.dll
+C:\Users\Emilian Adamache\Documents\Visual Studio 2015\Projects\UP Automation\UPAutomation\UnifiedPracticeTests\bin\Debug\Mono.Cecil.dll
+C:\Users\Emilian Adamache\Documents\Visual Studio 2015\Projects\UP Automation\UPAutomation\UnifiedPracticeTests\bin\Debug\Mono.Cecil.Pdb.dll
+C:\Users\Emilian Adamache\Documents\Visual Studio 2015\Projects\UP Automation\UPAutomation\UnifiedPracticeTests\bin\Debug\Mono.Cecil.Mdb.dll
+C:\Users\Emilian Adamache\Documents\Visual Studio 2015\Projects\UP Automation\UPAutomation\UnifiedPracticeTests\bin\Debug\Mono.Cecil.Rocks.dll
+C:\Users\Emilian Adamache\Documents\Visual Studio 2015\Projects\UP Automation\UPAutomation\UnifiedPracticeTests\bin\Debug\UnifiedPracticeTests.dll
+C:\Users\Emilian Adamache\Documents\Visual Studio 2015\Projects\UP Automation\UPAutomation\UnifiedPracticeTests\bin\Debug\UnifiedPracticeTests.pdb
+C:\Users\Emilian Adamache\Documents\Visual Studio 2015\Projects\UP Automation\UPAutomation\UnifiedPracticeTests\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Emilian Adamache\Documents\Visual Studio 2015\Projects\UP Automation\UPAutomation\UnifiedPracticeTests\bin\Debug\nunit.framework.dll
+C:\Users\Emilian Adamache\Documents\Visual Studio 2015\Projects\UP Automation\UPAutomation\UnifiedPracticeTests\bin\Debug\Sarif.dll
+C:\Users\Emilian Adamache\Documents\Visual Studio 2015\Projects\UP Automation\UPAutomation\UnifiedPracticeTests\bin\Debug\System.Collections.Immutable.dll
+C:\Users\Emilian Adamache\Documents\Visual Studio 2015\Projects\UP Automation\UPAutomation\UnifiedPracticeTests\bin\Debug\System.Composition.AttributedModel.dll
+C:\Users\Emilian Adamache\Documents\Visual Studio 2015\Projects\UP Automation\UPAutomation\UnifiedPracticeTests\bin\Debug\System.Composition.Convention.dll
+C:\Users\Emilian Adamache\Documents\Visual Studio 2015\Projects\UP Automation\UPAutomation\UnifiedPracticeTests\bin\Debug\System.Composition.Hosting.dll
+C:\Users\Emilian Adamache\Documents\Visual Studio 2015\Projects\UP Automation\UPAutomation\UnifiedPracticeTests\bin\Debug\System.Composition.Runtime.dll
+C:\Users\Emilian Adamache\Documents\Visual Studio 2015\Projects\UP Automation\UPAutomation\UnifiedPracticeTests\bin\Debug\System.Composition.TypedParts.dll
+C:\Users\Emilian Adamache\Documents\Visual Studio 2015\Projects\UP Automation\UPAutomation\UnifiedPracticeTests\bin\Debug\UPAutomation.dll
+C:\Users\Emilian Adamache\Documents\Visual Studio 2015\Projects\UP Automation\UPAutomation\UnifiedPracticeTests\bin\Debug\WebDriver.dll
+C:\Users\Emilian Adamache\Documents\Visual Studio 2015\Projects\UP Automation\UPAutomation\UnifiedPracticeTests\bin\Debug\WebDriver.Support.dll
+C:\Users\Emilian Adamache\Documents\Visual Studio 2015\Projects\UP Automation\UPAutomation\UnifiedPracticeTests\bin\Debug\UPAutomation.pdb
+C:\Users\Emilian Adamache\Documents\Visual Studio 2015\Projects\UP Automation\UPAutomation\UnifiedPracticeTests\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Emilian Adamache\Documents\Visual Studio 2015\Projects\UP Automation\UPAutomation\UnifiedPracticeTests\bin\Debug\nunit.framework.xml
+C:\Users\Emilian Adamache\Documents\Visual Studio 2015\Projects\UP Automation\UPAutomation\UnifiedPracticeTests\bin\Debug\System.Collections.Immutable.xml
+C:\Users\Emilian Adamache\Documents\Visual Studio 2015\Projects\UP Automation\UPAutomation\UnifiedPracticeTests\bin\Debug\System.Composition.AttributedModel.xml
+C:\Users\Emilian Adamache\Documents\Visual Studio 2015\Projects\UP Automation\UPAutomation\UnifiedPracticeTests\bin\Debug\System.Composition.Convention.xml
+C:\Users\Emilian Adamache\Documents\Visual Studio 2015\Projects\UP Automation\UPAutomation\UnifiedPracticeTests\bin\Debug\System.Composition.Hosting.xml
+C:\Users\Emilian Adamache\Documents\Visual Studio 2015\Projects\UP Automation\UPAutomation\UnifiedPracticeTests\bin\Debug\System.Composition.Runtime.xml
+C:\Users\Emilian Adamache\Documents\Visual Studio 2015\Projects\UP Automation\UPAutomation\UnifiedPracticeTests\bin\Debug\System.Composition.TypedParts.xml
+C:\Users\Emilian Adamache\Documents\Visual Studio 2015\Projects\UP Automation\UPAutomation\UnifiedPracticeTests\bin\Debug\WebDriver.xml
+C:\Users\Emilian Adamache\Documents\Visual Studio 2015\Projects\UP Automation\UPAutomation\UnifiedPracticeTests\bin\Debug\WebDriver.Support.xml
+C:\Users\Emilian Adamache\Documents\Visual Studio 2015\Projects\UP Automation\UPAutomation\UnifiedPracticeTests\obj\Debug\UnifiedPracticeTests.csprojResolveAssemblyReference.cache
+C:\Users\Emilian Adamache\Documents\Visual Studio 2015\Projects\UP Automation\UPAutomation\UnifiedPracticeTests\obj\Debug\UnifiedPracticeTests.dll
+C:\Users\Emilian Adamache\Documents\Visual Studio 2015\Projects\UP Automation\UPAutomation\UnifiedPracticeTests\obj\Debug\UnifiedPracticeTests.pdb
+D:\UP Automation\UPAutomation\UnifiedPracticeTests\bin\Debug\NUnit3.TestAdapter.dll
+D:\UP Automation\UPAutomation\UnifiedPracticeTests\bin\Debug\nunit.engine.dll
+D:\UP Automation\UPAutomation\UnifiedPracticeTests\bin\Debug\nunit.engine.api.dll
+D:\UP Automation\UPAutomation\UnifiedPracticeTests\bin\Debug\Mono.Cecil.dll
+D:\UP Automation\UPAutomation\UnifiedPracticeTests\bin\Debug\Mono.Cecil.Pdb.dll
+D:\UP Automation\UPAutomation\UnifiedPracticeTests\bin\Debug\Mono.Cecil.Mdb.dll
+D:\UP Automation\UPAutomation\UnifiedPracticeTests\bin\Debug\Mono.Cecil.Rocks.dll
+D:\UP Automation\UPAutomation\UnifiedPracticeTests\bin\Debug\UnifiedPracticeTests.dll
+D:\UP Automation\UPAutomation\UnifiedPracticeTests\bin\Debug\UnifiedPracticeTests.pdb
+D:\UP Automation\UPAutomation\UnifiedPracticeTests\bin\Debug\Newtonsoft.Json.dll
+D:\UP Automation\UPAutomation\UnifiedPracticeTests\bin\Debug\nunit.framework.dll
+D:\UP Automation\UPAutomation\UnifiedPracticeTests\bin\Debug\Sarif.dll
+D:\UP Automation\UPAutomation\UnifiedPracticeTests\bin\Debug\System.Collections.Immutable.dll
+D:\UP Automation\UPAutomation\UnifiedPracticeTests\bin\Debug\System.Composition.AttributedModel.dll
+D:\UP Automation\UPAutomation\UnifiedPracticeTests\bin\Debug\System.Composition.Convention.dll
+D:\UP Automation\UPAutomation\UnifiedPracticeTests\bin\Debug\System.Composition.Hosting.dll
+D:\UP Automation\UPAutomation\UnifiedPracticeTests\bin\Debug\System.Composition.Runtime.dll
+D:\UP Automation\UPAutomation\UnifiedPracticeTests\bin\Debug\System.Composition.TypedParts.dll
+D:\UP Automation\UPAutomation\UnifiedPracticeTests\bin\Debug\UPAutomation.dll
+D:\UP Automation\UPAutomation\UnifiedPracticeTests\bin\Debug\WebDriver.dll
+D:\UP Automation\UPAutomation\UnifiedPracticeTests\bin\Debug\WebDriver.Support.dll
+D:\UP Automation\UPAutomation\UnifiedPracticeTests\bin\Debug\UPAutomation.pdb
+D:\UP Automation\UPAutomation\UnifiedPracticeTests\bin\Debug\Newtonsoft.Json.xml
+D:\UP Automation\UPAutomation\UnifiedPracticeTests\bin\Debug\nunit.framework.xml
+D:\UP Automation\UPAutomation\UnifiedPracticeTests\bin\Debug\System.Collections.Immutable.xml
+D:\UP Automation\UPAutomation\UnifiedPracticeTests\bin\Debug\System.Composition.AttributedModel.xml
+D:\UP Automation\UPAutomation\UnifiedPracticeTests\bin\Debug\System.Composition.Convention.xml
+D:\UP Automation\UPAutomation\UnifiedPracticeTests\bin\Debug\System.Composition.Hosting.xml
+D:\UP Automation\UPAutomation\UnifiedPracticeTests\bin\Debug\System.Composition.Runtime.xml
+D:\UP Automation\UPAutomation\UnifiedPracticeTests\bin\Debug\System.Composition.TypedParts.xml
+D:\UP Automation\UPAutomation\UnifiedPracticeTests\bin\Debug\WebDriver.xml
+D:\UP Automation\UPAutomation\UnifiedPracticeTests\bin\Debug\WebDriver.Support.xml
+D:\UP Automation\UPAutomation\UnifiedPracticeTests\obj\Debug\UnifiedPracticeTests.csprojResolveAssemblyReference.cache
+D:\UP Automation\UPAutomation\UnifiedPracticeTests\obj\Debug\UnifiedPracticeTests.dll
+D:\UP Automation\UPAutomation\UnifiedPracticeTests\obj\Debug\UnifiedPracticeTests.pdb
+D:\UP Automation\UPAutomation Angular\UnifiedPracticeTests\bin\Debug\NUnit3.TestAdapter.dll
+D:\UP Automation\UPAutomation Angular\UnifiedPracticeTests\bin\Debug\NUnit3.TestAdapter.pdb
+D:\UP Automation\UPAutomation Angular\UnifiedPracticeTests\bin\Debug\nunit.engine.dll
+D:\UP Automation\UPAutomation Angular\UnifiedPracticeTests\bin\Debug\nunit.engine.api.dll
+D:\UP Automation\UPAutomation Angular\UnifiedPracticeTests\bin\Debug\Mono.Cecil.dll
+D:\UP Automation\UPAutomation Angular\UnifiedPracticeTests\bin\Debug\FeeScheduleTests.cs
+D:\UP Automation\UPAutomation Angular\UnifiedPracticeTests\bin\Debug\UnifiedPracticeTests.dll.config
+D:\UP Automation\UPAutomation Angular\UnifiedPracticeTests\bin\Debug\UnifiedPracticeTests.dll
+D:\UP Automation\UPAutomation Angular\UnifiedPracticeTests\bin\Debug\UnifiedPracticeTests.pdb
+D:\UP Automation\UPAutomation Angular\UnifiedPracticeTests\bin\Debug\HtmlAgilityPack.dll
+D:\UP Automation\UPAutomation Angular\UnifiedPracticeTests\bin\Debug\MongoDB.Bson.dll
+D:\UP Automation\UPAutomation Angular\UnifiedPracticeTests\bin\Debug\MongoDB.Driver.Core.dll
+D:\UP Automation\UPAutomation Angular\UnifiedPracticeTests\bin\Debug\MongoDB.Driver.dll
+D:\UP Automation\UPAutomation Angular\UnifiedPracticeTests\bin\Debug\Newtonsoft.Json.dll
+D:\UP Automation\UPAutomation Angular\UnifiedPracticeTests\bin\Debug\nunit.framework.dll
+D:\UP Automation\UPAutomation Angular\UnifiedPracticeTests\bin\Debug\RazorEngine.dll
+D:\UP Automation\UPAutomation Angular\UnifiedPracticeTests\bin\Debug\RelevantCodes.ExtentReports.dll
+D:\UP Automation\UPAutomation Angular\UnifiedPracticeTests\bin\Debug\Sarif.dll
+D:\UP Automation\UPAutomation Angular\UnifiedPracticeTests\bin\Debug\System.Collections.Immutable.dll
+D:\UP Automation\UPAutomation Angular\UnifiedPracticeTests\bin\Debug\System.Composition.AttributedModel.dll
+D:\UP Automation\UPAutomation Angular\UnifiedPracticeTests\bin\Debug\System.Composition.Convention.dll
+D:\UP Automation\UPAutomation Angular\UnifiedPracticeTests\bin\Debug\System.Composition.Hosting.dll
+D:\UP Automation\UPAutomation Angular\UnifiedPracticeTests\bin\Debug\System.Composition.Runtime.dll
+D:\UP Automation\UPAutomation Angular\UnifiedPracticeTests\bin\Debug\System.Composition.TypedParts.dll
+D:\UP Automation\UPAutomation Angular\UnifiedPracticeTests\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\UP Automation\UPAutomation Angular\UnifiedPracticeTests\bin\Debug\System.Web.Razor.dll
+D:\UP Automation\UPAutomation Angular\UnifiedPracticeTests\bin\Debug\UPAutomation.dll
+D:\UP Automation\UPAutomation Angular\UnifiedPracticeTests\bin\Debug\WebDriver.dll
+D:\UP Automation\UPAutomation Angular\UnifiedPracticeTests\bin\Debug\WebDriver.Support.dll
+D:\UP Automation\UPAutomation Angular\UnifiedPracticeTests\bin\Debug\UPAutomation.pdb
+D:\UP Automation\UPAutomation Angular\UnifiedPracticeTests\bin\Debug\HtmlAgilityPack.pdb
+D:\UP Automation\UPAutomation Angular\UnifiedPracticeTests\bin\Debug\HtmlAgilityPack.xml
+D:\UP Automation\UPAutomation Angular\UnifiedPracticeTests\bin\Debug\MongoDB.Bson.xml
+D:\UP Automation\UPAutomation Angular\UnifiedPracticeTests\bin\Debug\MongoDB.Driver.xml
+D:\UP Automation\UPAutomation Angular\UnifiedPracticeTests\bin\Debug\MongoDB.Driver.Core.xml
+D:\UP Automation\UPAutomation Angular\UnifiedPracticeTests\bin\Debug\Newtonsoft.Json.xml
+D:\UP Automation\UPAutomation Angular\UnifiedPracticeTests\bin\Debug\nunit.framework.pdb
+D:\UP Automation\UPAutomation Angular\UnifiedPracticeTests\bin\Debug\nunit.framework.xml
+D:\UP Automation\UPAutomation Angular\UnifiedPracticeTests\bin\Debug\RazorEngine.xml
+D:\UP Automation\UPAutomation Angular\UnifiedPracticeTests\bin\Debug\Sarif.pdb
+D:\UP Automation\UPAutomation Angular\UnifiedPracticeTests\bin\Debug\System.Collections.Immutable.xml
+D:\UP Automation\UPAutomation Angular\UnifiedPracticeTests\bin\Debug\System.Web.Razor.xml
+D:\UP Automation\UPAutomation Angular\UnifiedPracticeTests\bin\Debug\WebDriver.xml
+D:\UP Automation\UPAutomation Angular\UnifiedPracticeTests\bin\Debug\WebDriver.Support.xml
+D:\UP Automation\UPAutomation Angular\UnifiedPracticeTests\obj\Debug\UnifiedPracticeTests.csprojResolveAssemblyReference.cache
+D:\UP Automation\UPAutomation Angular\UnifiedPracticeTests\obj\Debug\UnifiedPracticeTests.dll
+D:\UP Automation\UPAutomation Angular\UnifiedPracticeTests\obj\Debug\UnifiedPracticeTests.pdb
